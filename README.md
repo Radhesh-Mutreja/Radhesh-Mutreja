@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radhesh Mutreja</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/vegeta-icegif-6.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/dxld1UBIiGuoh31Fus.webp">
 
 
 
