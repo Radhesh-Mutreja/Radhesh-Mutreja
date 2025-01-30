@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radhesh Mutreja</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/579fe1183178475.653aa8931b193.gif">
+<img align="right" alt="Coding" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/579fe1183178475.653aa8931b193.gif](https://giphy.com/explore/vegeta-et-goku)">
 
 
 - 🌱 I’m currently learning **Machine learning and AI**
