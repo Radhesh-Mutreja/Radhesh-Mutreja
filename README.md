@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhesh Mutreja</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1850417714510050532/5EA796C4329F655099E9BB4400F0771B9F256E9B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/25/d9/68/25d968d011b32c00e6056a98852fc1d6.gif">
+
 
 
 
