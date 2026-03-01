@@ -121,7 +121,7 @@ radhesh@nfsu-delhi:~/profile$ cat connect.txt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-radhesh--mutreja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhesh-mutreja-210714271/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-nullRdx-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/nullRdx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-radhesh.netlify.app-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://radhesh.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-radhesh.netlify.app-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://radhesh-port.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-radhesh.mutreja1304-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhesh.mutreja1304@gmail.com)
 
 </div>
