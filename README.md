@@ -107,9 +107,6 @@ radhesh@nfsu-delhi:~/profile$ cat featured_project.txt
 
 ---
 
-```bash
-radhesh@nfsu-delhi:~/profile$ cat garage.f1
-```
 
 
 ```bash
