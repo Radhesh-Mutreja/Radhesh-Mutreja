@@ -3,7 +3,6 @@
 
 
 
-
 ### `> MUTREJA, RADHESH`
 **MSc Digital Forensics & Information Security — NFSU Delhi**
 
@@ -68,6 +67,8 @@ radhesh@nfsu-delhi:~/profile$ ls ./skills/
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Security & Forensics**
@@ -107,18 +108,23 @@ radhesh@nfsu-delhi:~/profile$ cat featured_project.txt
 ---
 
 ```bash
-radhesh@nfsu-delhi:~/profile$ cat stats.txt
+radhesh@nfsu-delhi:~/profile$ cat garage.f1
 ```
 
-<div align="center">
 
-![Radhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhesh-Mutreja&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=030712&title_color=00ff88&icon_color=00d4ff&text_color=c8d8e8)
+```bash
+radhesh@nfsu-delhi:~/profile$ cat parallel_processing.txt
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhesh-Mutreja&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=030712&title_color=00ff88&text_color=c8d8e8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Radhesh-Mutreja&theme=dark&hide_border=true&background=030712&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=c8d8e8&dates=4a6070)
-
-</div>
+```
+  FORENSICS LAB              vs            F1 PIT LANE
+  ──────────────────────────────────────────────────────
+  Analyse evidence            ←→       Analyse telemetry
+  Find the exploit            ←→       Find the setup gap
+  Chain of custody            ←→       Strategy undercut
+  Incident report             ←→       Post-race debrief
+  No stone unturned           ←→       Every tenth counts
+```
 
 ---
 
@@ -145,5 +151,7 @@ radhesh@nfsu-delhi:~/profile$ cat connect.txt
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Radhesh-Mutreja&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+
+<sub><sup>still we rise.</sup></sub>
 
 </div>
