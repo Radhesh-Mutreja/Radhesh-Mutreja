@@ -109,19 +109,7 @@ radhesh@nfsu-delhi:~/profile$ cat featured_project.txt
 
 
 
-```bash
-radhesh@nfsu-delhi:~/profile$ cat parallel_processing.txt
-```
 
-```
-  FORENSICS LAB              vs            F1 PIT LANE
-  ──────────────────────────────────────────────────────
-  Analyse evidence            ←→       Analyse telemetry
-  Find the exploit            ←→       Find the setup gap
-  Chain of custody            ←→       Strategy undercut
-  Incident report             ←→       Post-race debrief
-  No stone unturned           ←→       Every tenth counts
-```
 
 ---
 
