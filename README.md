@@ -1,12 +1,10 @@
 <!-- Header -->
 <div align="center">
 
-
-
 ### `> MUTREJA, RADHESH`
 **MSc Digital Forensics & Information Security — NFSU Delhi**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Digital+Forensics+%26+InfoSec+Researcher;LSB+Steganography+%7C+Network+Forensics;TryHackMe%3A+nullRdx;BCA+%40+BVIMR+%E2%86%92+MSc+%40+NFSU+Delhi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Red+Team+%7C+Blue+Team+%7C+Purple+Mind;Digital+Forensics+%26+InfoSec+Researcher;Network+Forensics+%7C+Web+App+Security;TryHackMe%3A+nullRdx;BCA+%40+BVIMR+%E2%86%92+MSc+%40+NFSU+Delhi)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +21,32 @@ Uni      : National Forensic Sciences University, Delhi
 Previous : BCA — BVIMR, New Delhi
 THM      : nullRdx
 Status   : Open to internships & collaborations
-Focus    : Blue Team | Digital Forensics | Steganography
+Focus    : Red Team | Blue Team | Digital Forensics
+```
+
+---
+
+```bash
+radhesh@nfsu-delhi:~/profile$ cat threat_model.txt
+```
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    OPERATOR PROFILE                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  🔴 RED TEAM   — Recon. Exploit. Persist. Exfiltrate.   ║
+║                  Phishing | Network Attacks | Web Vulns  ║
+║                  Social Engineering | Privilege Escalation║
+║                                                          ║
+║  🔵 BLUE TEAM  — Detect. Respond. Harden. Recover.      ║
+║                  DFIR | Log Analysis | Threat Hunting    ║
+║                  Incident Response | Network Forensics   ║
+║                                                          ║
+║  🟣 PURPLE     — Because the best defenders              ║
+║                  have stood on both sides.               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -34,10 +57,10 @@ radhesh@nfsu-delhi:~/profile$ cat current_ops.txt
 
 ```
 [*] Pursuing MSc in Digital Forensics & Information Security @ NFSU Delhi
-[*] Grinding SOC & Blue Team paths on TryHackMe as nullRdx
-[*] Building forensic tools — steganography, network analysis, DFIR
-[*] Preparing for BTL1 certification
-[*] Ask me about → Linux, Python, Steganography, Digital Forensics
+[*] Grinding Red Team & SOC paths on TryHackMe as nullRdx
+[*] Building offensive & defensive security tools
+[*] Preparing for CEH & Bug Bounty hunting
+[*] Ask me about → Kali, Python, Pentesting, Digital Forensics, Nmap
 [*] Reach me at  → radhesh.mutreja1304@gmail.com
 ```
 
@@ -73,9 +96,11 @@ radhesh@nfsu-delhi:~/profile$ ls ./skills/
 
 **Security & Forensics**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214a6f?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Databases**
@@ -84,32 +109,6 @@ radhesh@nfsu-delhi:~/profile$ ls ./skills/
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
-
----
-
-```bash
-radhesh@nfsu-delhi:~/profile$ cat featured_project.txt
-```
-
-```
-╔══════════════════════════════════════════════════════════╗
-║            🕷️  NOIR STEGO TOOL  v2.0                    ║
-╠══════════════════════════════════════════════════════════╣
-║  Caesar Cipher + LSB Steganography — Web Application    ║
-║                                                          ║
-║  Hide encrypted messages inside PNG images through a    ║
-║  noir-themed browser UI. Flask backend with REST API.   ║
-║                                                          ║
-║  Stack: Python · Flask · NumPy · Pillow · HTML/CSS/JS   ║
-║  Course: MSc DFIS — NFSU Delhi                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-
-
-
 
 ---
 
@@ -132,7 +131,7 @@ radhesh@nfsu-delhi:~/profile$ cat connect.txt
 
 ```
 > MSc DFIS @ NFSU Delhi  ·  nullRdx  ·  2026
-> "The best forensic investigators leave no stone unturned."
+> "You cannot defend what you don't understand."
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Radhesh-Mutreja&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
