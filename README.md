@@ -42,10 +42,7 @@ radhesh@nfsu-delhi:~/profile$ cat threat_model.txt
 ║  🔵 BLUE TEAM  — Detect. Respond. Harden. Recover.      ║
 ║                  DFIR | Log Analysis | Threat Hunting    ║
 ║                  Incident Response | Network Forensics   ║
-║                                                          ║
-║  🟣 PURPLE     — Because the best defenders              ║
-║                  have stood on both sides.               ║
-║                                                          ║
+║                                                          ║                              
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -60,7 +57,7 @@ radhesh@nfsu-delhi:~/profile$ cat current_ops.txt
 [*] Grinding Red Team & SOC paths on TryHackMe as nullRdx
 [*] Building offensive & defensive security tools
 [*] Preparing for CEH & Bug Bounty hunting
-[*] Ask me about → Kali, Python, Pentesting, Digital Forensics, Nmap
+[*] Ask me about → Kali, Python, Pentesting, Digital Forensics, Nmap, Metasploit, TCPDump, Wireshark
 [*] Reach me at  → radhesh.mutreja1304@gmail.com
 ```
 
@@ -131,7 +128,6 @@ radhesh@nfsu-delhi:~/profile$ cat connect.txt
 
 ```
 > MSc DFIS @ NFSU Delhi  ·  nullRdx  ·  2026
-> "You cannot defend what you don't understand."
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Radhesh-Mutreja&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
