@@ -89,21 +89,6 @@
 
 ---
 
-### Noir Security Toolkit
-
-> A suite of defensive security tools built with Python + Flask — consistent dark aesthetic, real utility.
-
-| Tool | Description |
-|------|-------------|
-| [**Noir IDS**](https://github.com/Radhesh-Mutreja) | Log monitoring & intrusion detection — Tkinter GUI, SQLite logging, HTML reports |
-| [**Noir Packet Analyzer**](https://github.com/Radhesh-Mutreja) | Live capture + PCAP analysis — threat detection, credential sniffing, HTML export |
-| [**ReconX**](https://github.com/Radhesh-Mutreja) | OSINT framework — 6 concurrent modules, Shodan integration, downloadable reports |
-| [**NETRUNNER**](https://github.com/Radhesh-Mutreja) | Network toolkit — port scanner, hash cracker, DNS/WHOIS, encoder/decoder |
-| [**Noir Stego RSA**](https://github.com/Radhesh-Mutreja) | Covert comms — RSA-2048 encryption + LSB steganography |
-| [**Noir Honeypot**](https://github.com/Radhesh-Mutreja) | Fake corporate login page with real-time operator dashboard |
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-radhesh--mutreja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhesh-mutreja-210714271/)
