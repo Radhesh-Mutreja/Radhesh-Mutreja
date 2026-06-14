@@ -8,14 +8,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  NULL_RDX // OPERATIVE DOSSIER                          ║
+║  NULL_RDX // OPERATIVE DOSSIER                           ║
 ╠══════════════════════════════════════════════════════════╣
-║  HANDLE     →  nullRdx                                  ║
-║  NAME       →  Radhesh Mutreja                          ║
-║  NODE       →  NFSU Delhi — MSc DFIS, Sem 2             ║
-║  CLEARANCE  →  FSL Rohini (Govt. NCT of Delhi)          ║
-║  THM RANK   →  Ruby · Top 2% Global                     ║
-║  STATUS     →  Seeking DFIR / SOC Internship            ║
+║  HANDLE     →  nullRdx                                   ║
+║  NAME       →  Radhesh Mutreja                           ║
+║  NODE       →  NFSU Delhi — MSc DFIS, Sem 2              ║
+║  CLEARANCE  →  FSL Rohini (Govt. NCT of Delhi)           ║
+║  THM RANK   →  Ruby · Top 2% Global                      ║
+║  STATUS     →  Seeking DFIR / SOC Internship             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -23,17 +23,17 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ACTIVE OPERATIONS                                      ║
+║  ACTIVE OPERATIONS                                       ║
 ╠══════════════════════════════════════════════════════════╣
-║  [FIELD]    FSL Rohini — real criminal casework done    ║
-║  [ACTIVE]   SOC Level 1 path — TryHackMe (near done)   ║
-║  [ACTIVE]   Building PHANTOM — rogue AP on Pi Zero W    ║
-║  [ACTIVE]   Building GHOST — Jarvis-style voice AI      ║
-║  [PLANNED]  SENTINEL — Shodan attack surface mapper     ║
-║  [PREP]     CEH via NFSU · ISC2 CC · Fortinet NSE 1-3  ║
+║  [FIELD]    FSL Rohini — real criminal casework done     ║
+║  [ACTIVE]   SOC Level 1 path — TryHackMe (near done)     ║
+║  [ACTIVE]   Building PHANTOM — rogue AP on Pi Zero W     ║
+║  [ACTIVE]   Building GHOST — Jarvis-style voice AI       ║
+║  [PLANNED]  SENTINEL — Shodan attack surface mapper      ║
+║  [PREP]     CEH via NFSU · ISC2 CC · Fortinet NSE 1-3    ║
 ╠══════════════════════════════════════════════════════════╣
-║  Ask me →   Mobile Forensics · OSINT · Python · DFIR   ║
-║             Wireshark · Sysmon · Cellebrite · XRY       ║
+║  Ask me →   Mobile Forensics · OSINT · Python · DFIR     ║
+║             Wireshark · Sysmon · Cellebrite · XRY        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -41,18 +41,18 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  CAPABILITY MATRIX                                      ║
+║  CAPABILITY MATRIX                                       ║
 ╠══════════════════╦═══════════════════════════════════════╣
-║  FORENSICS       ║  Cellebrite UFED · XRY · Oxygen      ║
-║                  ║  Tableau Write Blockers · DVR/CCTV   ║
+║  FORENSICS       ║  Cellebrite UFED · XRY · Oxygen       ║
+║                  ║  Tableau Write Blockers · DVR/CCTV    ║
 ╠══════════════════╬═══════════════════════════════════════╣
 ║  BLUE TEAM       ║  Wireshark · Sysmon · Splunk          ║
 ║                  ║  Log Analysis · SIEM · IR Playbooks   ║
 ╠══════════════════╬═══════════════════════════════════════╣
-║  RECON & OSINT   ║  SPECTRE · Shodan · HIBP · NetworkX  ║
+║  RECON & OSINT   ║  SPECTRE · Shodan · HIBP · NetworkX   ║
 ║                  ║  Passive Recon · Footprint Mapping    ║
 ╠══════════════════╬═══════════════════════════════════════╣
-║  BUILD           ║  Python · Flask · Bash · JavaScript  ║
+║  BUILD           ║  Python · Flask · Bash · JavaScript   ║
 ║                  ║  Raspberry Pi · Arduino · Linux       ║
 ╚══════════════════╩═══════════════════════════════════════╝
 ```
@@ -96,11 +96,16 @@
 
 ### // CASE FILES
 
-| ID | PROJECT | DESCRIPTION | STATUS |
-|---|---|---|---|
-| 004 | **SENTINEL** | Attack surface mapper — Shodan API, exposure scoring, automated reporting | `PLANNED` |
-| 005 | **NOIR STEGO RSA** | RSA-2048 + LSB steganography — secrets hidden in plain sight | `COMPLETE` |
-| 006 | **NOIR IDS** | Intrusion detection system with noir dashboard | `COMPLETE` |
+| ID | PROJECT | DESCRIPTION | STACK | STATUS |
+|---|---|---|---|---|
+| 001 | [**Noir-pkt-analyzer**](https://github.com/Radhesh-Mutreja/Noir-pkt-analyzer) | Real-time packet capture and analysis with noir dashboard | HTML · Python | `COMPLETE` |
+| 002 | [**Noir-Ids**](https://github.com/Radhesh-Mutreja/Noir-Ids) | Intrusion detection system — live threat monitoring, noir UI | HTML · Python | `COMPLETE` |
+| 003 | [**Noir-Stego-RSA**](https://github.com/Radhesh-Mutreja/Noir-Stego-RSA) | RSA-2048 + LSB steganography — secrets hidden in plain sight | HTML · Python | `COMPLETE` |
+| 004 | [**Dorker_GUI**](https://github.com/Radhesh-Mutreja/Dorker_GUI) | Google Hacking GUI — automated dork queries for OSINT recon | HTML | `COMPLETE` |
+| 005 | [**Stego_tool_2.0**](https://github.com/Radhesh-Mutreja/Stego_tool_2.0) | Steganography toolkit v2 — encode/decode hidden data in images | HTML | `COMPLETE` |
+| 006 | **GHOST** | Jarvis-style voice AI — Gemini 2.0 Flash, Web Speech API, noir HUD | JS · HTML | `ACTIVE` |
+| 007 | **PHANTOM** | Rogue AP station — Raspberry Pi Zero W, captive portal, traffic interception | Python · Pi | `BUILDING` |
+| 008 | **SENTINEL** | Attack surface mapper — Shodan API, exposure scoring, automated reporting | Python · Flask | `PLANNED` |
 
 ---
 
