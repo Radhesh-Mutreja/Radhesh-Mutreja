@@ -6,6 +6,8 @@
 
 *DFIR · Threat Detection · Offensive Security*
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRhbTl1aTVmNHgyZDA0ZTA2cTdpY2Z3NnE2M2Nmd3RqOWRjMDA1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2JvztR3AjtBxQs/giphy.gif" width="300">
+
 </div>
 
 ---
@@ -15,13 +17,13 @@
 I'm an MSc Digital Forensics and Information Security student at NFSU Delhi,
 with hands-on forensic casework experience from an internship at a government
 cyber forensics lab. My focus is building a solid DFIR/blue-team foundation
-while developing offensive security depth — working toward a SOC → red team
-career path.
+while developing offensive security depth.
 
 - 🎓 MSc Digital Forensics & Information Security, NFSU Delhi
 - 🔬 Digital forensics internship experience — mobile & digital evidence casework
 - 🛡️ Active on TryHackMe, top 1% globally
 - 📜 Pursuing CEH certification
+
 
 ---
 
