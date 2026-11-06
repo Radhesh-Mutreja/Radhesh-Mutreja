@@ -6,7 +6,6 @@
 
 *DFIR · Threat Detection · Offensive Security*
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRhbTl1aTVmNHgyZDA0ZTA2cTdpY2Z3NnE2M2Nmd3RqOWRjMDA1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2JvztR3AjtBxQs/giphy.gif" width="300">
 
 </div>
 
@@ -19,10 +18,9 @@ with hands-on forensic casework experience from an internship at a government
 cyber forensics lab. My focus is building a solid DFIR/blue-team foundation
 while developing offensive security depth.
 
-- 🎓 MSc Digital Forensics & Information Security, NFSU Delhi
-- 🔬 Digital forensics internship experience — mobile & digital evidence casework
-- 🛡️ Active on TryHackMe, top 1% globally
-- 📜 Pursuing CEH certification
+-  MSc Digital Forensics & Information Security, NFSU Delhi
+-  Digital forensics internship experience — mobile & digital evidence casework
+-  Active on TryHackMe and Hack The Box , top 1% globally on TryHackMe
 
 
 ---
@@ -30,25 +28,25 @@ while developing offensive security depth.
 ### Skills
 
 **Languages**
-C · C++ · Assembly · Python · Bash · JavaScript · Java
+C , C++ , Assembly , Python , Bash , JavaScript , Java , Rust
 
 **Blue Team / SIEM / Monitoring**
-Splunk · Elastic (ELK) · Wireshark · ProcMon
+Splunk , Elastic (ELK) , Wireshark , ProcMon , Google SecOps , Velociraptor , Snort , Suricata
 
 **Offensive Security**
-Nmap · Burp Suite · SQLmap · Metasploit · OWASP methodology · Gobuster · ffuf · Netcat
+Nmap , Burp Suite , SQLmap , Metasploit , OWASP methodology , Gobuster , ffuf , Netcat , Nuclei , John the Ripper , Hydra
 
 **Malware Analysis & Reverse Engineering**
-Ghidra · x64dbg · PEStudio · VirusTotal
+Ghidra , x64dbg , PEStudio , VirusTotal , CAPA , Yara , FLARE VM , Cuckoo , DIE
 
 **Forensics & Cracking**
-John the Ripper · Zsteg · ExifTool
+ Zsteg , ExifTool , Volatility , Autopsy , Eric Zimmerman’s tools , RegRipper , FTK Imager , KAPE
 
 **Mobile Forensics**
-Cellebrite UFED · XRY · Oxygen Forensic
+Cellebrite UFED , XRY , Oxygen Forensic , ADB
 
 **OSINT**
-Shodan
+Shodan , Maltego , theHarvester , SpiderFoot , Sherlock , Recon-ng , Censys
 
 ---
 
